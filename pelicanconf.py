@@ -2,6 +2,8 @@ AUTHOR = 'Gary the Danger Doggo'
 SITENAME = 'My Cool Site'
 SITEURL = ''
 
+THEME = 'templates/mytheme'
+
 PATH = 'content'
 
 TIMEZONE = 'America/Edmonton'
